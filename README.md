@@ -25,7 +25,6 @@ This project demonstrates how AI can be used to generate an SEO content strategy
 ## Tools Used
 
 - ChatGPT
-- Gemini
 - Claude
 - Lovable AI
 - GitHub
